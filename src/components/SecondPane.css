@@ -1,0 +1,20 @@
+.container-second {
+  background-color: #1b5583;
+  height: 80vh;
+  width: 35vw;
+  border-radius: 15px;
+  box-shadow: 3px 5px #888888;
+  padding: 25px;
+}
+
+h3 {
+  color: white;
+  margin: 2px;
+  padding: 4px;
+}
+h4 {
+  color: white;
+}
+label {
+  color: white;
+}

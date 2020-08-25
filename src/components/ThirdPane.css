@@ -1,0 +1,15 @@
+.container-third {
+  background-color: #1b5583;
+  height: 80vh;
+  width: 20vw;
+  border-radius: 15px;
+  box-shadow: 3px 5px #888888;
+  padding: 15px;
+}
+
+.container-child {
+  background-color: white;
+  border-radius: 10px;
+  height: 60vh;
+  width: 16vw;
+}
