@@ -17,11 +17,15 @@ const Header = () => {
         />
       </div>
       <div className="center-menu">
-        <h2>Nitty Games</h2>
+        <a href="#">
+          <h1>Nitty Games</h1>
+        </a>
       </div>
       <div className="right menu">
         <div className="item">
-          <h3>Sign Up</h3>
+          <a href="#">
+            <h3>Sign Up</h3>
+          </a>
         </div>
       </div>
     </div>

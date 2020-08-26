@@ -3,5 +3,13 @@
   flex-direction: row;
 }
 .container-individual {
-  margin: 25px;
+  margin: 40px;
+}
+.container-title {
+  height: 12vh;
+  width: 80vh;
+  background-color: #dc143c;
+  color: white;
+  border-radius: 10px;
+  margin-left: 30vw;
 }

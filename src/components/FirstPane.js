@@ -14,33 +14,37 @@ const FirstPane = () => {
               <label style={{ color: "yellow" }}>Shubh123 </label>
               <input type="checkbox" name="example" />
             </div>
+            <i className="large middle aligned icon pencil alterante" />
           </div>
         </div>
         <div className="item">
           <i className="large middle aligned icon user" />
           <div className="content">
             <div class="ui checkbox">
-              <label style={{ color: "cyan" }}>Jai0101 </label>
+              <label style={{ color: "cyan" }}>Jaiya2101</label>
               <input type="checkbox" name="example" />
             </div>
+            <i className="large middle aligned icon arrow alternate circle up outline" />
           </div>
         </div>
         <div className="item">
           <i className="large middle aligned icon user" />
           <div className="content">
             <div class="ui checkbox">
-              <label>Himan123</label>
+              <label style={{ color: "white" }}>Himan123</label>
               <input type="checkbox" name="example" />
             </div>
+            <i className="large middle aligned icon arrow alternate circle up outline" />
           </div>
         </div>
         <div className="item">
           <i className="large middle aligned icon user" />
           <div className="content">
             <div class="ui checkbox">
-              <label>Neer123 </label>
+              <label style={{ color: "white" }}>Neeer123 </label>
               <input type="checkbox" name="example" />
             </div>
+            <i className="large middle aligned icon arrow alternate circle up outline" />
           </div>
         </div>
       </div>

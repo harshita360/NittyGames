@@ -21,7 +21,7 @@ const ThirdPane = () => {
         </div>
       </div>
 
-      <button class="ui button" style={{ margin: "4px" }}>
+      <button class="ui button" style={{ margin: "6px" }}>
         Type Here...
       </button>
     </div>

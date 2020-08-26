@@ -61,7 +61,7 @@ const SecondPane = () => {
           <div className="content">
             <div class="ui checkbox">
               <label>
-                <h4>Timer</h4>
+                <h4 style={{ backgroundColor: " #357EC7" }}>Timer</h4>
               </label>
               <input type="checkbox" name="example" />
             </div>
@@ -72,7 +72,7 @@ const SecondPane = () => {
           <div className="content">
             <div class="ui checked checkbox">
               <label>
-                <h4>Hollywood</h4>
+                <h4 style={{ backgroundColor: " #357EC7" }}>Hollywood</h4>
               </label>
               <input type="checkbox" name="example" checked="" />
             </div>
@@ -83,7 +83,7 @@ const SecondPane = () => {
           <div className="content">
             <div class="ui checkbox">
               <label>
-                <h4>Bollywood</h4>
+                <h4 style={{ backgroundColor: " #357EC7" }}>Bollywood</h4>
               </label>
               <input type="checkbox" name="example" />
             </div>
@@ -111,7 +111,9 @@ const SecondPane = () => {
         </div>
       </div>
       <br />
-      <button class="ui button">Start Game?</button>
+      <a href="#">
+        <button class="ui button">Start Game?</button>
+      </a>
     </div>
   );
 };
