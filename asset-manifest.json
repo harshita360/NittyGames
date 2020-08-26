@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/NittyGames/static/css/main.35d825b2.chunk.css",
+    "main.js": "/NittyGames/static/js/main.9435f7c8.chunk.js",
+    "main.js.map": "/NittyGames/static/js/main.9435f7c8.chunk.js.map",
+    "runtime-main.js": "/NittyGames/static/js/runtime-main.f28bc2a7.js",
+    "runtime-main.js.map": "/NittyGames/static/js/runtime-main.f28bc2a7.js.map",
+    "static/js/2.156e931e.chunk.js": "/NittyGames/static/js/2.156e931e.chunk.js",
+    "static/js/2.156e931e.chunk.js.map": "/NittyGames/static/js/2.156e931e.chunk.js.map",
+    "index.html": "/NittyGames/index.html",
+    "precache-manifest.9802814af919dd8454da3f4b7d07ea95.js": "/NittyGames/precache-manifest.9802814af919dd8454da3f4b7d07ea95.js",
+    "service-worker.js": "/NittyGames/service-worker.js",
+    "static/css/main.35d825b2.chunk.css.map": "/NittyGames/static/css/main.35d825b2.chunk.css.map",
+    "static/js/2.156e931e.chunk.js.LICENSE.txt": "/NittyGames/static/js/2.156e931e.chunk.js.LICENSE.txt",
+    "static/media/background.jpeg": "/NittyGames/static/media/background.66d90be8.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f28bc2a7.js",
+    "static/js/2.156e931e.chunk.js",
+    "static/css/main.35d825b2.chunk.css",
+    "static/js/main.9435f7c8.chunk.js"
+  ]
+}
