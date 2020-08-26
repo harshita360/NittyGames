@@ -5,6 +5,7 @@ import SecondPane from "./SecondPane";
 import Header from "./Header";
 import "./App.css";
 import bg from "../background.jpeg";
+import Footer from "./Footer";
 
 const App = () => {
   return (
@@ -24,6 +25,9 @@ const App = () => {
           <ThirdPane />
         </div>
       </div>
+      <br />
+      <br />
+      <Footer />
     </div>
   );
 };
